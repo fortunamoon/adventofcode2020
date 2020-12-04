@@ -1,4 +1,4 @@
-from day3_puzzle_data import puzzle_raw_data
+from day2_puzzle_data import puzzle_raw_data
 
 
 def parse_data():
